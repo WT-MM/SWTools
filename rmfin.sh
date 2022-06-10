@@ -1,4 +1,5 @@
 #!/bin/bash
+#Remove TextGrid files in sw_textgrids_da that already exist in fixed_textgrids
 FINDIR="$PWD/fixed_textgrids_temp"
 FIXDIR="$PWD/fixed_textgrids"
 RAWDIR="$PWD/sw_textgrids_da"
